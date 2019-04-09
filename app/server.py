@@ -9,7 +9,7 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://drive.google.com/uc?export=download&confirm=x4wY&id=1oau0kRw8G7jLhQ3Z2iYzI88LyaPCtrdu'
+export_file_url = 'https://drive.google.com/uc?export=download&confirm=zK7x&id=1oau0kRw8G7jLhQ3Z2iYzI88LyaPCtrdu'
 export_file_name = 'export.pkl'
 
 classes = ['s', '3', 'x']
